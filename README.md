@@ -1,2 +1,2 @@
 # coreutilsLibrary
-A library to allow the coreutils to be used programmaticly
+A library to allow the gnu coreutils to be used programmaticly
